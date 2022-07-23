@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=CCD1FF&height=250&section=header&text=Uwol-is-June%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=KWU%20Robotics&descAlignY=62&descAlign=62)
 
-### Hi there 👋
-
 ![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=uwol-is-june&show_icons=true&theme=dracula)
 
 <!--
