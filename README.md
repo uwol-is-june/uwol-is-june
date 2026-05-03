@@ -1,4 +1,4 @@
-![DevTier](https://devtier-brown.vercel.app/api/badge/uwol-is-june)
+[![DevTier](https://devtier-brown.vercel.app/api/badge/uwol-is-june)](https://devtier.dev/result/uwol-is-june)
 
 
 <!--
