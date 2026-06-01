@@ -53,7 +53,6 @@ currently:
 **Data & Analytics**
 
 ![GA4](https://img.shields.io/badge/GA4-0F0F23?style=for-the-badge&logo=googleanalytics&logoColor=00FFC6)
-![Amplitude](https://img.shields.io/badge/Amplitude-0F0F23?style=for-the-badge&logo=amplitude&logoColor=00FFC6)
 ![SQL](https://img.shields.io/badge/SQL-0F0F23?style=for-the-badge&logo=postgresql&logoColor=8338EC)
 
 **Hands-on (조금씩)**
@@ -66,6 +65,7 @@ currently:
 
 <br/>
 
+
 <!-- GITHUB STATS -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;`GitHub Stats`
 
@@ -74,20 +74,11 @@ currently:
   <a href="https://devtier-brown.vercel.app/result/uwol-is-june">
     <img src="https://devtier-brown.vercel.app/api/badge/uwol-is-june?theme=dark&size=md" alt="DevTier" />
   </a>
-</p>
-<a href="https://github.com/uwol-is-june">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=uwol-is-june&show_icons=true&hide_border=true&bg_color=0F0F23&title_color=00FFC6&icon_color=8338EC&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/uwol-is-june">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwol-is-june&layout=compact&hide_border=true&bg_color=0F0F23&title_color=00FFC6&text_color=FFFFFF&langs_count=8"/>
-</a>
-
 <br/><br/>
-
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=uwol-is-june&hide_border=true&background=0F0F23&ring=00FFC6&fire=8338EC&currStreakLabel=00FFC6&sideLabels=8338EC&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=00FFC6" alt="GitHub Streak"/>
 </a>
-
+</p>
 </div>
 
 <br/>
@@ -106,23 +97,6 @@ currently:
 </div>
 
 <br/>
-
-<!-- 핀 프로젝트 -->
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;`Pinned Projects`
-
-<div align="center">
-
-<a href="https://github.com/uwol-is-june/devtier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uwol-is-june&repo=devtier&hide_border=true&bg_color=0F0F23&title_color=00FFC6&icon_color=8338EC&text_color=FFFFFF&cache_seconds=3600"/>
-</a>
-<a href="https://github.com/uwol-is-june/Podo-Wiki">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uwol-is-june&repo=Podo-Wiki&hide_border=true&bg_color=0F0F23&title_color=00FFC6&icon_color=8338EC&text_color=FFFFFF&cache_seconds=3600"/>
-</a>
-<a href="https://github.com/uwol-is-june/dasii-data-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uwol-is-june&repo=dasii-data-api&hide_border=true&bg_color=0F0F23&title_color=00FFC6&icon_color=8338EC&text_color=FFFFFF&cache_seconds=3600"/>
-</a>
-
-</div>
 
 
 <!--
