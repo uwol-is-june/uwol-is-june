@@ -74,10 +74,6 @@ currently:
   <a href="https://devtier-brown.vercel.app/result/uwol-is-june">
     <img src="https://devtier-brown.vercel.app/api/badge/uwol-is-june?theme=dark&size=md" alt="DevTier" />
   </a>
-<br/><br/>
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=uwol-is-june&hide_border=true&background=0F0F23&ring=00FFC6&fire=8338EC&currStreakLabel=00FFC6&sideLabels=8338EC&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=00FFC6" alt="GitHub Streak"/>
-</a>
 </p>
 </div>
 
