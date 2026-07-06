@@ -1,10 +1,6 @@
 <!-- 타이핑 애니메이션 -->
 <div align="center">
 
-<a href="https://github.com/uwol-is-june">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=00FFC6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Uwol.+%F0%9F%91%8B;Product+Owner+%E2%9A%A1+Maker+%E2%9A%A1+Thinker;Turning+ideas+into+products+that+matter;Welcome+to+my+playground+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <p>
