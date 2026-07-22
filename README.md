@@ -17,7 +17,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;`About Me`
 
 ```yaml
-name: June
+name: Uwol
 role: Product Owner
 mission: "사용자의 진짜 문제를 찾아내고, 작게 빠르게 검증하는 것"
 
