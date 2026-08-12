@@ -5,7 +5,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Role-Product%20Owner-00FFC6?style=for-the-badge&labelColor=0F0F23"/>
-  <img src="https://img.shields.io/badge/Focus-Discovery%20%26%20Delivery-8338EC?style=for-the-badge&labelColor=0F0F23"/>
+  <img src="https://img.shields.io/badge/Focus-Discovery%20%26%20Delivery-8338EC?style=for-the-badge&labelColor=0F0F23"/><br/>
   <img src="https://komarev.com/ghpvc/?username=uwol-is-june&style=for-the-badge&color=8338EC&label=PROFILE+VIEWS&labelColor=0F0F23"/>
 </p>
 
