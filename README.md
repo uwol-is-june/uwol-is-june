@@ -61,6 +61,98 @@ currently:
 
 <br/>
 
+<br/>
+
+<!-- LIVE PROJECTS -->
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"> &nbsp;`Live Projects`
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<br/>
+
+### 🍇 &nbsp;포도상점 <code>PODO STORE</code>
+<p><i>스토리 IP 거래 플랫폼</i></p>
+
+<a href="https://www.podo-store.com">
+  <img src="https://img.shields.io/badge/Website-0F0F23?style=for-the-badge&logo=googlechrome&logoColor=00FFC6"/>
+</a>
+
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+
+### 🥗 &nbsp;다시 <code>DASII</code>
+<p><i>다이어트 제품 성분 분석 및 리뷰 앱</i></p>
+
+<a href="https://play.google.com/store/apps/details?id=com.dasii">
+  <img src="https://img.shields.io/badge/Google_Play-0F0F23?style=for-the-badge&logo=googleplay&logoColor=00FFC6"/>
+</a>
+<a href="https://apps.apple.com/kr/app/id6754357876">
+  <img src="https://img.shields.io/badge/App_Store-0F0F23?style=for-the-badge&logo=appstore&logoColor=8338EC"/>
+</a>
+
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+
+### 🐶 &nbsp;멍멍멍멍멍 <code>Mungx5</code>
+<p><i>멍뭉이와 함께하는 음주습관 관리 앱</i></p>
+
+<a href="https://play.google.com/store/apps/details?id=com.anonymous.puppymode">
+  <img src="https://img.shields.io/badge/Google_Play-0F0F23?style=for-the-badge&logo=googleplay&logoColor=00FFC6"/>
+</a>
+<a href="https://apps.apple.com/kr/app/id6758366885">
+  <img src="https://img.shields.io/badge/App_Store-0F0F23?style=for-the-badge&logo=appstore&logoColor=8338EC"/>
+</a>
+
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<br/>
+
+### 🔮 &nbsp;Diet-Saju <code>DASII</code>
+<p><i>다이어트 사주 분석 서비스</i></p>
+
+<a href="https://diet-saju.vercel.app/">
+  <img src="https://img.shields.io/badge/Live-0F0F23?style=for-the-badge&logo=vercel&logoColor=00FFC6"/>
+</a>
+
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+
+### 🏆 &nbsp;Devtier
+<p><i>깃허브 잔디 기반 개발자 랭킹 서비스</i></p>
+
+<a href="https://devtier-brown.vercel.app/">
+  <img src="https://img.shields.io/badge/Live-0F0F23?style=for-the-badge&logo=vercel&logoColor=8338EC"/>
+</a>
+
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+
+### 🚧 &nbsp;Coming Soon
+<p><i>다음 프로젝트를 준비 중입니다</i></p>
+
+<img src="https://img.shields.io/badge/In_Progress-0F0F23?style=for-the-badge&logo=hackthebox&logoColor=8338EC"/>
+
+<br/><br/>
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
 
 <!-- GITHUB STATS -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;`GitHub Stats`
@@ -89,19 +181,3 @@ currently:
 </div>
 
 <br/>
-
-
-<!--
-**uwol-is-june/uwol-is-june** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
