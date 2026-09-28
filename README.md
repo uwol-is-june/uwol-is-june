@@ -18,13 +18,13 @@
 
 ```yaml
 name: Uwol
-role: Product Owner
+role: Product Manager
 mission: "사용자의 진짜 문제를 찾아내고, 작게 빠르게 검증하는 것"
 
 believes_in:
   - "좋은 제품은 좋은 질문에서 나온다"
   - "스펙 문서보다 사용자 인터뷰 한 번"
-  - "엔지니어와 디자이너를 이해하는 PO가 좋은 PO다"
+  - "엔지니어와 디자이너를 이해하는 PM이 좋은 PM다"
 
 currently:
   - 📦 제품 기획부터 출시까지 전 과정 운영
