@@ -76,7 +76,7 @@ currently:
 <p><i>스토리 IP 거래 플랫폼</i></p>
 
 <a href="https://www.podo-store.com">
-  <img src="https://img.shields.io/badge/Website-0F0F23?style=for-the-badge&logo=googlechrome&logoColor=00FFC6"/>
+  <img src="https://img.shields.io/badge/Website-0F0F23?style=for-the-badge&logo=googlechrome&logoColor=FF6B9D"/>
 </a>
 
 <br/><br/>
@@ -120,7 +120,7 @@ currently:
 <p><i>다이어트 사주 분석 서비스</i></p>
 
 <a href="https://diet-saju.vercel.app/">
-  <img src="https://img.shields.io/badge/Live-0F0F23?style=for-the-badge&logo=vercel&logoColor=00FFC6"/>
+  <img src="https://img.shields.io/badge/Website-0F0F23?style=for-the-badge&logo=googlechrome&logoColor=FF6B9D"/>
 </a>
 
 <br/><br/>
@@ -132,11 +132,32 @@ currently:
 <p><i>깃허브 잔디 기반 개발자 랭킹 서비스</i></p>
 
 <a href="https://devtier-brown.vercel.app/">
-  <img src="https://img.shields.io/badge/Live-0F0F23?style=for-the-badge&logo=vercel&logoColor=8338EC"/>
+  <img src="https://img.shields.io/badge/Website-0F0F23?style=for-the-badge&logo=googlechrome&logoColor=FF6B9D"/>
 </a>
 
 <br/><br/>
 </td>
+
+<td align="center" width="33%">
+<br/>
+
+### 🍇 &nbsp;Podo Wiki
+<p><i>공연단체 인수인계 문서를 공유하는 위키 플랫폼</i></p>
+
+<a href="https://www.wiki.podo-store.com">
+  <img src="https://img.shields.io/badge/Website-0F0F23?style=for-the-badge&logo=googlechrome&logoColor=FF6B9D"/>
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.podowiki.app">
+  <img src="https://img.shields.io/badge/Google_Play-0F0F23?style=for-the-badge&logo=googleplay&logoColor=00FFC6"/>
+</a>
+<a href="https://apps.apple.com/kr/app/id6790099095">
+  <img src="https://img.shields.io/badge/App_Store-0F0F23?style=for-the-badge&logo=appstore&logoColor=8338EC"/>
+</a>
+
+<br/><br/>
+</td>
+</tr>
+<tr>
 <td align="center" width="33%">
 <br/>
 
