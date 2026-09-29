@@ -145,7 +145,7 @@ currently:
 <br/>
 
 ### 🍇 &nbsp;Podo Wiki
-<p><i>공연단체 인수인계 문서를 공유하는 위키 플랫폼</i></p>
+<p><i>공연단체 인수인계 문서 위키 플랫폼</i></p>
 
 <a href="https://www.wiki.podo-store.com">
   <img src="https://img.shields.io/badge/Website-0F0F23?style=for-the-badge&logo=googlechrome&logoColor=FF6B9D"/>
