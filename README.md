@@ -39,23 +39,26 @@ currently:
 
 <div align="center">
 
-**Product & Strategy**
+**Planning & Collaboration**
 
-![Notion](https://img.shields.io/badge/Notion-0F0F23?style=for-the-badge&logo=notion&logoColor=00FFC6)
-![Jira](https://img.shields.io/badge/Jira-0F0F23?style=for-the-badge&logo=jira&logoColor=00FFC6)
-![Figma](https://img.shields.io/badge/Figma-0F0F23?style=for-the-badge&logo=figma&logoColor=8338EC)
-![Slack](https://img.shields.io/badge/Slack-0F0F23?style=for-the-badge&logo=slack&logoColor=8338EC)
+![Figma](https://img.shields.io/badge/Figma-0F0F23?style=for-the-badge&logo=figma&logoColor=00FFC6)
+![Miro](https://img.shields.io/badge/Miro-0F0F23?style=for-the-badge&logo=miro&logoColor=8338EC)
+![MS Office](https://img.shields.io/badge/MS_Office-0F0F23?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTWljcm9zb2Z0IE9mZmljZTwvdGl0bGU%2BPHBhdGggZmlsbD0iIzAwRkZDNiIgZD0iTTIxLjUzIDQuMzA2djE1LjM2M3EwIC44MDctLjQ3MiAxLjQzMy0uNDcyLjYyNy0xLjI1My44NWwtNi44ODggMS45NzRxLS4xMzYuMDM3LS4yOS4wNTUtLjE1Ni4wMTktLjI5My4wMTktLjM5NiAwLS43Mi0uMTA1LS4zMjEtLjEwNi0uNjU2LS4yOTJsLTQuNTA1LTIuNTQ0cS0uMjQ4LS4xMzctLjM5MS0uMzY2LS4xNDMtLjIzLS4xNDMtLjUxNSAwLS40MzQuMzA0LS43MzguMzA0LS4zMDUuNzM5LS4zMDVoNS44MzFWNC45NjRsLTQuMzggMS41NjNxLS41MzMuMTg3LS44NTYuNjU4LS4zMjIuNDcyLS4zMjIgMS4wM3Y4LjA3OHEwIC40OTYtLjI0OC45MTItLjI1LjQxNi0uNjgzLjY1MWwtMi4wNzIgMS4xM3EtLjI4Ni4xNDgtLjU3MS4xNDgtLjQ5NyAwLS44NDQtLjM0Ny0uMzQ4LS4zNDctLjM0OC0uODQ0VjYuNTYzcTAtLjYyLjMzLTEuMTkuMzI4LS41NzEuODc0LS44ODFMMTEuMDcuMjg1cS4yNDgtLjEzNi41MzQtLjIxLjI4NS0uMDc1LjU3LS4wNzUuMjExIDAgLjM4LjAzMS4xNjYuMDMxLjM2NC4wOTNsNi44ODggMS44OTlxLjM4NC4xMS43LjMyOS4zMTcuMjE3LjU0Ny41Mi4yMy4zMDUuMzUzLjY3LjEyNS4zNjcuMTI1Ljc2NHptLTEuNTg4IDE1LjM2M1Y0LjMwNnEwLS4yNzMtLjE2LS40NzgtLjE2My0uMjA0LS40MjMtLjI4bC0zLjM4OC0uOTNxLS4zOTctLjExMS0uNzk0LS4yMy0uMzk3LS4xMTctLjc5NC0uMjE2djE5LjY4bDQuOTc2LTEuNDI3cS4yNi0uMDc0LjQyMi0uMjguMTYxLS4yMDQuMTYxLS40Nzd6Ii8%2BPC9zdmc%2B)
+![Jira](https://img.shields.io/badge/Jira-0F0F23?style=for-the-badge&logo=jira&logoColor=8338EC)
+![Confluence](https://img.shields.io/badge/Confluence-0F0F23?style=for-the-badge&logo=confluence&logoColor=00FFC6)
+![Notion](https://img.shields.io/badge/Notion-0F0F23?style=for-the-badge&logo=notion&logoColor=8338EC)
+![Slack](https://img.shields.io/badge/Slack-0F0F23?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BU2xhY2s8L3RpdGxlPjxwYXRoIGZpbGw9IiMwMEZGQzYiIGQ9Ik01LjA0MiAxNS4xNjVhMi41MjggMi41MjggMCAwIDEtMi41MiAyLjUyM0EyLjUyOCAyLjUyOCAwIDAgMSAwIDE1LjE2NWEyLjUyNyAyLjUyNyAwIDAgMSAyLjUyMi0yLjUyaDIuNTJ2Mi41MnpNNi4zMTMgMTUuMTY1YTIuNTI3IDIuNTI3IDAgMCAxIDIuNTIxLTIuNTIgMi41MjcgMi41MjcgMCAwIDEgMi41MjEgMi41MnY2LjMxM0EyLjUyOCAyLjUyOCAwIDAgMSA4LjgzNCAyNGEyLjUyOCAyLjUyOCAwIDAgMS0yLjUyMS0yLjUyMnYtNi4zMTN6TTguODM0IDUuMDQyYTIuNTI4IDIuNTI4IDAgMCAxLTIuNTIxLTIuNTJBMi41MjggMi41MjggMCAwIDEgOC44MzQgMGEyLjUyOCAyLjUyOCAwIDAgMSAyLjUyMSAyLjUyMnYyLjUySDguODM0ek04LjgzNCA2LjMxM2EyLjUyOCAyLjUyOCAwIDAgMSAyLjUyMSAyLjUyMSAyLjUyOCAyLjUyOCAwIDAgMS0yLjUyMSAyLjUyMUgyLjUyMkEyLjUyOCAyLjUyOCAwIDAgMSAwIDguODM0YTIuNTI4IDIuNTI4IDAgMCAxIDIuNTIyLTIuNTIxaDYuMzEyek0xOC45NTYgOC44MzRhMi41MjggMi41MjggMCAwIDEgMi41MjItMi41MjFBMi41MjggMi41MjggMCAwIDEgMjQgOC44MzRhMi41MjggMi41MjggMCAwIDEtMi41MjIgMi41MjFoLTIuNTIyVjguODM0ek0xNy42ODggOC44MzRhMi41MjggMi41MjggMCAwIDEtMi41MjMgMi41MjEgMi41MjcgMi41MjcgMCAwIDEtMi41Mi0yLjUyMVYyLjUyMkEyLjUyNyAyLjUyNyAwIDAgMSAxNS4xNjUgMGEyLjUyOCAyLjUyOCAwIDAgMSAyLjUyMyAyLjUyMnY2LjMxMnpNMTUuMTY1IDE4Ljk1NmEyLjUyOCAyLjUyOCAwIDAgMSAyLjUyMyAyLjUyMkEyLjUyOCAyLjUyOCAwIDAgMSAxNS4xNjUgMjRhMi41MjcgMi41MjcgMCAwIDEtMi41Mi0yLjUyMnYtMi41MjJoMi41MnpNMTUuMTY1IDE3LjY4OGEyLjUyNyAyLjUyNyAwIDAgMS0yLjUyLTIuNTIzIDIuNTI2IDIuNTI2IDAgMCAxIDIuNTItMi41Mmg2LjMxM0EyLjUyNyAyLjUyNyAwIDAgMSAyNCAxNS4xNjVhMi41MjggMi41MjggMCAwIDEtMi41MjIgMi41MjNoLTYuMzEzeiIvPjwvc3ZnPg%3D%3D)
 
 **Data & Analytics**
 
 ![GA4](https://img.shields.io/badge/GA4-0F0F23?style=for-the-badge&logo=googleanalytics&logoColor=00FFC6)
 ![SQL](https://img.shields.io/badge/SQL-0F0F23?style=for-the-badge&logo=postgresql&logoColor=8338EC)
+![Python](https://img.shields.io/badge/Python-0F0F23?style=for-the-badge&logo=python&logoColor=00FFC6)
 
-**Hands-on (조금씩)**
+**AI**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0F0F23?style=for-the-badge&logo=typescript&logoColor=00FFC6)
-![React](https://img.shields.io/badge/React-0F0F23?style=for-the-badge&logo=react&logoColor=00FFC6)
-![Git](https://img.shields.io/badge/Git-0F0F23?style=for-the-badge&logo=git&logoColor=8338EC)
+![Claude Code](https://img.shields.io/badge/Claude_Code-0F0F23?style=for-the-badge&logo=claude&logoColor=8338EC)
+![Gemini API](https://img.shields.io/badge/Gemini_API-0F0F23?style=for-the-badge&logo=googlegemini&logoColor=00FFC6)
 
 </div>
 
